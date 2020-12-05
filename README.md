@@ -13,8 +13,8 @@
   ```
 
 ### (三) 輸出結果:
-  (1) 紅色:
-     (2) 橘色:
-        (3) 紫色:
+(1) 紅色: setosa  <br>
+(2) 橘色: versicolor <br>
+(3) 紫色: virginica
 
 ![image](https://github.com/WuJammy/iris_sepal_python/blob/master/img/11591205.png)
