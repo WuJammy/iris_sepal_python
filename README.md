@@ -10,3 +10,4 @@
 ### (三) 輸出結果
 
 
+![image](https://github.com/WuJammy/iris_sepal_python/blob/master/img/11591205.png)
