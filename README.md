@@ -7,7 +7,15 @@
   import pandas as pd
   import matplotlib.pyplot as plt
   ```
-### (三) 輸出結果
+### (三) 導入iris的資料:
+ ```python
+  import pandas as pd
+  import matplotlib.pyplot as plt
+  ```
 
+### (三) 輸出結果:
+(1)紅色
+(2)紫色
+(3)
 
 ![image](https://github.com/WuJammy/iris_sepal_python/blob/master/img/11591205.png)
