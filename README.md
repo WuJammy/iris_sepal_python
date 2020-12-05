@@ -7,7 +7,14 @@
   import pandas as pd
   import matplotlib.pyplot as plt
   ```
-### (三) 輸出結果
+### (三) 導入iris的資料:
+ ```python
+  pd.read_csv("iris.csv",index_col="class",encoding = "utf8")
+  ```
 
+### (三) 輸出結果:
+(1) 紅色: setosa  <br>
+(2) 橘色: versicolor <br>
+(3) 紫色: virginica
 
 ![image](https://github.com/WuJammy/iris_sepal_python/blob/master/img/11591205.png)
